@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 90px 280px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container2 {
+    display: none;
+    margin: 60px 0;
+  }
+
+  /* .container3 {
+    display: none;
+    margin: 60px 0;
+  }
+  
+  .container4 {
+    display: none;
+    margin: 60px 0;
+  }
+
+  .container5 {
+    display: none;
+    margin: 60px 0;
+  } */
+
+  #deleteTime{
+    display: none;
+    outline: none;
+  }
+
+  .labelName{
+    width: 60%;
+    margin-left: 200px;
+    outline: none;
+  }
